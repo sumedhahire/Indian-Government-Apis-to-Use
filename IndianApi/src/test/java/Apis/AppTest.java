@@ -1,4 +1,4 @@
-package api;
+package Apis;
 
 import static org.junit.Assert.assertTrue;
 

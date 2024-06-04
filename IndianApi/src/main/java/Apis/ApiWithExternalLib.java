@@ -1,17 +1,13 @@
-package api;
+package main.java.Apis;
 
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.*;
-/**
- * 
- */
+import java.util.Scanner;
 
- 
-public class ApiWithExternalLib
-{
+import main.java.api.Resources;
 
-    public static String fetching(String Url,String method){
+public class ApiWithExternalLib {
+    public static String fetching(String Url,String method) throws Exception{
         
         /*
          * URL object and type cast it into an HttpURLConnection
@@ -47,10 +43,12 @@ public class ApiWithExternalLib
     }
 
 
-    public static void main( String[] args ){
+    public static void main( String[] args ) throws Exception{
         
+        String url="https://api.data.gov.in/resource/6176ee09-3d56-4a3b-8115-21841576b2f6?api-key="+Resources.getApiKey()+"&format=json";
 
+        System.out.println(fetching(url, "GET"));
 
-
+        
     }
 }
