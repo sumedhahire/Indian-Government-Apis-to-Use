@@ -2,11 +2,10 @@
 
 
 
-Run java program
+## Build Java Porject
 
-maven clean install
-
-mvn exec:java -Dexec.mainClass="com.example.<java source file>"
+* mvn clean install
+* mvn exec:java -Dexec.mainClass="com.example.<class name>"
 
 
 
