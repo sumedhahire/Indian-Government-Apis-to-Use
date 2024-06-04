@@ -1,8 +1,10 @@
-package main.java.Apis;
+package com.example;
 
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
+
+import org.json.JSONObject;
 
 import main.java.api.Resources;
 
@@ -47,8 +49,12 @@ public class ApiWithExternalLib {
         
         String url="https://api.data.gov.in/resource/6176ee09-3d56-4a3b-8115-21841576b2f6?api-key="+Resources.getApiKey()+"&format=json";
 
-        System.out.println(fetching(url, "GET"));
+        //System.out.println(fetching(url, "GET"));
 
+        JSONObject jsonObject=new JSONObject(fetching(url, "GET"));
+
+        System.out.println(jsonObject.toString());
+        
         
     }
 }

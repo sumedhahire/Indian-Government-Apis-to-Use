@@ -25,4 +25,4 @@ replay_pid*
 
 target/
 #ignore 
-IndianApi/src/main/java/Apis/Resources.java
+apis/src/main/java/com/example/Resources.java
