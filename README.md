@@ -20,14 +20,14 @@
   <tr>
     <th>Go-To</th>
   </tr>
-  <tr><td><a href="#economy" >Indin Economy apis</a></td></tr>
-   <tr> <td><a href="#pincode">Indin Pincode apis</a></td></tr>
-   <tr> <td><a href="#renandnon" >Indin Renewable and Non-Renewable apis</a></td></tr>
+  <tr><td><a href="#economy" >Indian Economy apis</a></td></tr>
+   <tr> <td><a href="#pincode">Indian Pincode apis</a></td></tr>
+   <tr> <td><a href="#renandnon" >Indian Renewable and Non-Renewable apis</a></td></tr>
    <tr> <td><a href="#medical" >Indian Medical Apis</a></td>
   </tr>
 </table>
 
-## Indin Economy apis
+## Indian Economy apis
 <table border="1px" id="economy">
   <tr>
   <th>Name</th>
@@ -47,7 +47,7 @@
   </tr>
 </table>  
 
-## Indin Pincode apis
+## Indian Pincode apis
 <table border="1px" id="pincode">
   <tr>
   <th>Name</th>
@@ -65,7 +65,7 @@
   </tr>
 </table>  
   
-## Indin Renewable and Non-Renewable apis
+## Indian Renewable and Non-Renewable apis
 <table border="1px" id="renandnon">
   <tr>
   <th>Name</th>
