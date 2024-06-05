@@ -5,7 +5,7 @@
 ## Build Java Porject
 
 * mvn clean install
-* mvn exec:java -Dexec.mainClass="com.example.<class name>"
+* mvn exec:java -Dexec.mainClass="com.example.JavaClassName"
 
 
 
