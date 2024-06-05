@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 import org.json.JSONObject;
 
-import com.example.Resources;
-
 public class ApiWithExternalLib {
     public static String fetching(String Url,String method) throws Exception{
         
@@ -26,6 +24,7 @@ public class ApiWithExternalLib {
 
         //if error then null
         if(responseCode!=200){
+            System.out.println(responseCode);
             return null;
         }else{
             //
@@ -49,11 +48,13 @@ public class ApiWithExternalLib {
         
         String url="https://api.data.gov.in/resource/6176ee09-3d56-4a3b-8115-21841576b2f6?api-key="+Resources.getApiKey()+"&format=json";
 
-        //System.out.println(fetching(url, "GET"));
+        System.out.println(Resources.getApiKey());
 
-        JSONObject jsonObject=new JSONObject(fetching(url, "GET"));
+        System.out.println(fetching(url, "GET"));
 
-        System.out.println(jsonObject.toString());
+        JSONObject jsonObject=new JSONObject(fetching("", "GET"));
+
+       System.out.println(jsonObject.toString());
         
         
     }
