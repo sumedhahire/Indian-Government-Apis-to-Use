@@ -77,6 +77,29 @@
   </tr>
 </table>  
 
+## Indian Medical Apis
+
+<table border="1px">
+  <tr>
+  <th>Name</th>
+  <th>Link</th>
+  </tr>
+  <tr>
+    <td>General Duty Medical Officers (GDMOS) - Allopathic at CHCS as on 31st March 2015 </td>
+     <td><a href="https://data.gov.in/resource/general-duty-medical-officers-gdmos-allopathic-chcs-31st-march-2015">Link</a></td>
+     
+  </tr>
+  <tr>
+   <td>Pharmacists at PHCS and CHCS during 2005 and 2015 </td>
+    <td><a href="https://data.gov.in/resource/general-duty-medical-officers-gdmos-allopathic-chcs-31st-march-2015">Link</a></td>
+   
+  </tr>
+   <tr>
+   <td>Estimates of Birth Rates and Death Rates - 2013  </td>
+    <td><a href="https://data.gov.in/resource/estimates-birth-rates-and-death-rates-2013-0">Link</a></td>
+   
+  </tr>
+</table>  
 
 
 
