@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import org.json.JSONObject;
 
-import main.java.api.Resources;
+import com.example.Resources;
 
 public class ApiWithExternalLib {
     public static String fetching(String Url,String method) throws Exception{
