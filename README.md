@@ -16,19 +16,38 @@
 
 # Famous Indian Goverment apis
 
-## Indin Pincode apis
+## Indin Economy apis
 <table border="1px">
   <tr>
   <th>Name</th>
   <th>About</th>
   </tr>
   <tr>
-     <td><a href="https://data.gov.in/resource/all-india-pincode-directory">All Pincode</a></td>
-     <td>All India Pincode Directory</td>
+  <td>Quarterly Estimates of GDP at Current Prices, 2011-12 Series From 2011-12 to 2022-23</td>
+     <td><a href="https://data.gov.in/resource/all-india-pincode-directory">Link</a></td>
   </tr>
   <tr>
-    <td><a href="https://data.gov.in/resource/all-india-pincode-directory-along-contact-details">All Pincode with contact</a></td>
-    <td>All India Pincode Directory along with Contact Details </td>
+    <td>State Level Consumer Price Index (Rural/Urban) upto May 2023</td>
+     <td><a href="https://data.gov.in/resource/state-level-consumer-price-index-ruralurban-upto-september-2018#api">Link</a></td>
+  </tr>
+  </tr>
+</table>  
+
+## Indin Pincode apis
+<table border="1px">
+  <tr>
+  <th>Name</th>
+  <th>Link</th>
+  </tr>
+  <tr>
+    <td>All India Pincode Directory</td>
+     <td><a href="https://data.gov.in/resource/all-india-pincode-directory">Link</a></td>
+     
+  </tr>
+  <tr>
+   <td>All India Pincode Directory along with Contact Details </td>
+    <td><a href="https://data.gov.in/resource/all-india-pincode-directory-along-contact-details">Link</a></td>
+   
   </tr>
 </table>  
   
