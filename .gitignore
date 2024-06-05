@@ -25,5 +25,5 @@ replay_pid*
 
 target/
 #ignore 
-
+apis/src/main/resources/config.properties
 

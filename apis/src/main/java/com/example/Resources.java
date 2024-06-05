@@ -16,4 +16,8 @@ public class Resources {
             return null;
         }
     }
+
+    public static void main(String[] args) {
+        System.out.println(getApiKey());
+    }
 }
