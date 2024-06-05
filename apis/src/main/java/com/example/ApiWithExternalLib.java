@@ -8,8 +8,7 @@ import org.json.JSONObject;
 
 public class ApiWithExternalLib {
     public static String fetching(String Url,String method) throws Exception{
-        
-        /*
+        /* 
          * URL object and type cast it into an HttpURLConnection
          *  object so that we can set request types and get response codes back
          */
