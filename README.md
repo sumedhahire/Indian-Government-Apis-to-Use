@@ -16,7 +16,7 @@
 
 # Famous Indian Goverment apis
 
-<table border="1px">
+<table border="1px" align="center">
   <tr>
     <th>Go-To</th>
   </tr>
