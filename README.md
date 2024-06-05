@@ -14,7 +14,7 @@
 * mvn clean install
 * mvn exec:java -Dexec.mainClass="com.example.JavaClassName"
 
-##Famous Indian Goverment apis
+## Famous Indian Goverment apis
 
 <table border="1px">
   <tr>
