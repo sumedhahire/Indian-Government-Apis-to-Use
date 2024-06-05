@@ -16,8 +16,20 @@
 
 # Famous Indian Goverment apis
 
-## Indin Economy apis
 <table border="1px">
+  <tr>
+    <th>Go-To</th>
+  </tr>
+  <tr>
+    <td><a href="#economy" >Indin Economy apis</a></td>
+    <td><a href="#pincode">Indin Pincode apis</a></td>
+    <td><a href="#renandnon" >Indin Renewable and Non-Renewable apis</a></td>
+    <td><a href="#medical" >Indian Medical Apis</a></td>
+  </tr>
+</table>
+
+## Indin Economy apis
+<table border="1px" id="economy">
   <tr>
   <th>Name</th>
   <th>About</th>
@@ -37,7 +49,7 @@
 </table>  
 
 ## Indin Pincode apis
-<table border="1px">
+<table border="1px" id="pincode">
   <tr>
   <th>Name</th>
   <th>Link</th>
@@ -55,7 +67,7 @@
 </table>  
   
 ## Indin Renewable and Non-Renewable apis
-<table border="1px">
+<table border="1px" id="renandnon">
   <tr>
   <th>Name</th>
   <th>Link</th>
@@ -79,7 +91,7 @@
 
 ## Indian Medical Apis
 
-<table border="1px">
+<table border="1px" id="medical">
   <tr>
   <th>Name</th>
   <th>Link</th>
