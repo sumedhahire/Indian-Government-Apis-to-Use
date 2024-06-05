@@ -20,11 +20,10 @@
   <tr>
     <th>Go-To</th>
   </tr>
-  <tr>
-    <td><a href="#economy" >Indin Economy apis</a></td>
-    <td><a href="#pincode">Indin Pincode apis</a></td>
-    <td><a href="#renandnon" >Indin Renewable and Non-Renewable apis</a></td>
-    <td><a href="#medical" >Indian Medical Apis</a></td>
+  <tr><td><a href="#economy" >Indin Economy apis</a></td></tr>
+   <tr> <td><a href="#pincode">Indin Pincode apis</a></td></tr>
+   <tr> <td><a href="#renandnon" >Indin Renewable and Non-Renewable apis</a></td></tr>
+   <tr> <td><a href="#medical" >Indian Medical Apis</a></td>
   </tr>
 </table>
 
